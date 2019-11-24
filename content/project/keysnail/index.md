@@ -6,7 +6,7 @@ summary: "Allows you to bind commands to key sequences in Mozilla Firefox"
 authors: [Masafumi Oyamada]
 tags: [Firefox,Emacs]
 categories: [Firefox,Emacs]
-date: 2019-11-24T07:40:14Z
+date: 2019-11-20T07:40:14Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mooz/keysnail"

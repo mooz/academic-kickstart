@@ -6,7 +6,7 @@ summary: "A Lisp implementation and REPL written in JavaScript, which supports s
 authors: [Masafumi Oyamada]
 tags: [JavaScript]
 categories: [JavaScript]
-date: 2019-11-24T11:44:43Z
+date: 2019-11-19T11:44:43Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -6,7 +6,7 @@ summary: "Provides zsh like completion for minibuffer in Emacs"
 authors: [Masafumi Oyamada]
 tags: [Emacs]
 categories: [Emacs]
-date: 2019-11-24T11:44:51Z
+date: 2019-11-17T11:44:51Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

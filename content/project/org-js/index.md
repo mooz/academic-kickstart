@@ -6,7 +6,7 @@ summary: "A parser for org-mode notation written in JavaScript"
 authors: [Masafumi Oyamada]
 tags: [Emacs,JavaScript]
 categories: [Emacs,JavaScript]
-date: 2019-11-24T11:58:03Z
+date: 2019-11-18T11:58:03Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -6,7 +6,7 @@ summary: "A chaos fractal generator written in JavaScript"
 authors: [Masafumi Oyamada]
 tags: [JavaScript]
 categories: [JavaScript]
-date: 2019-11-24T11:44:56Z
+date: 2019-11-16T11:44:56Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

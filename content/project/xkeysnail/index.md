@@ -6,7 +6,7 @@ summary: "Yet another keyboard remapping tool for X environment"
 authors: [Masafumi Oyamada]
 tags: [Linux,Emacs,Python]
 categories: [Linux,Emacs,Python]
-date: 2019-11-24T07:40:05Z
+date: 2019-11-23T07:40:05Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mooz/xkeysnail"

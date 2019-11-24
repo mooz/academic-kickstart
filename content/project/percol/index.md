@@ -6,7 +6,7 @@ summary: "An interactive grep tool in your terminal"
 authors: [Masafumi Oyamada]
 tags: [Terminal,Emacs,Python]
 categories: [Terminal,Emacs,Python]
-date: 2019-11-24T07:40:18Z
+date: 2019-11-21T07:40:18Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mooz/percol"
