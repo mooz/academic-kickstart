@@ -89,5 +89,3 @@ Research Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation. I
 received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
 March 2018 under supervision of [Prof. Hiroyuki
 Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
-
-Kanji: 小山田 昌史 (Oyamada Masafumi).
