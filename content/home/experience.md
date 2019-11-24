@@ -26,21 +26,11 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Principal investigator of knowledge-based learning team. Research topics include
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "PhD Student"
-  company = "University of Tsukuba"
-  company_url = ""
-  location = "Ibaraki, Japan"
-  date_start = "2017-04-01"
-  date_end = "2018-03-31"
-  description = """XXX
+  * Data Management (Data Integration, Data Indexing, ...)
+  * Human-Computer Interaction (Crowd Computing)
+  * Knowledge Extraction
   """
 
 [[experience]]
@@ -50,24 +40,38 @@ date_format = "Jan 2006"
   location = "Tokyo, Japan"
   date_start = "2013-04-01"
   date_end = "2017-03-31"
-  description = """XXX."""
+  description = """
+Research on customer behavior data analytics. Research topics include
+* Bayesian Modeling of Customer Behavior
+* Context-aware Recommendation
+* Statistical Relational Learning
+"""
 
 [[experience]]
-  title = "Graduate Student"
-  company = "University of Tsukuba"
+  title = "Software Engineer (Part-time)"
+  company = "Clear-Code Inc."
   company_url = ""
-  location = "Ibaraki, Japan"
-  date_start = "2011-04-01"
+  location = "Tokyo, Japan"
+  date_start = "2011-05-01"
   date_end = "2013-03-31"
-  description = """XXX."""
+  description = """Software development (Firefox / Thunderbird Extension etc.)."""
 
 [[experience]]
-  title = "Undergraduate Student"
-  company = "University of Tsukuba"
+  title = "Research Staff (Internship Student)"
+  company = "NTT Research Laboratories"
   company_url = ""
-  location = "Ibaraki, Japan"
-  date_start = "2007-04-01"
-  date_end = "2011-03-31"
-  description = """XXX."""
+  location = "Tokyo, Japan"
+  date_start = "2012-08-01"
+  date_end = "2013-08-31"
+  description = """Research and development on data streams."""
+
+[[experience]]
+  title = "Software Engineer (Internship Student)"
+  company = "Hatena Inc."
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2011-08-01"
+  date_end = "2011-08-31"
+  description = """Developed a Safari extension."""
 
 +++
