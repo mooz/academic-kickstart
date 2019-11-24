@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 250  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,12 +17,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Senior Researcher (Data Science)"
+  company = "NEC Corporation"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tokyo, Japan"
+  date_start = "2017-04-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +34,40 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD Student"
+  company = "University of Tsukuba"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ibaraki, Japan"
+  date_start = "2017-04-01"
+  date_end = "2018-03-31"
+  description = """XXX
+  """
+
+[[experience]]
+  title = "Researcher (Data Science)"
+  company = "NEC Corporation"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2013-04-01"
+  date_end = "2017-03-31"
+  description = """XXX."""
+
+[[experience]]
+  title = "Graduate Student"
+  company = "University of Tsukuba"
+  company_url = ""
+  location = "Ibaraki, Japan"
+  date_start = "2011-04-01"
+  date_end = "2013-03-31"
+  description = """XXX."""
+
+[[experience]]
+  title = "Undergraduate Student"
+  company = "University of Tsukuba"
+  company_url = ""
+  location = "Ibaraki, Japan"
+  date_start = "2007-04-01"
+  date_end = "2011-03-31"
+  description = """XXX."""
 
 +++
