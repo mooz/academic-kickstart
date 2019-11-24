@@ -104,5 +104,21 @@
       {{ end }}
 
     </div>
+
+    <div class="row">
+
+      {{ with $person.honors }}
+      <div class="col-md-12">
+        <h3>{{ "Honors" }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+
   </div>
 </div>

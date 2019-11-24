@@ -38,6 +38,22 @@ education:
   - course: BSE in Computer Science
     institution: University of Tsukuba
     year: 2011
+    
+interests:
+- Database Systems
+- Data Management
+- Machine Learning
+- Information Extraction
+- Knowledge Management
+
+honors:
+- Best paper runner up award in WebDB Forum, 2018
+- JSAI Annual Conference Award, 2016
+- Best honorable poster in DEIM, 2015
+- Best paper runner up award in APWeb, 2015
+- Honorable poster in DEIM, 2014
+- Chair of department of computer science award from University of Tsukuba, 2013
+- Honorable student talk in DEIM, 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -73,3 +89,5 @@ Research Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation. I
 received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
 March 2018 under supervision of [Prof. Hiroyuki
 Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
+
+Kanji: 小山田 昌史 (Oyamada Masafumi).
