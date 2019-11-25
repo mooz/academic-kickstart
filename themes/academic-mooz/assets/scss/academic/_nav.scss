@@ -116,7 +116,9 @@
     max-height: 40px;
   }
   .navbar-brand {
-    max-width: 100px;
+      max-width: 300px;
+      color: red;
+    text-align: center;
     margin: 0 auto;
     position: absolute;
     left: 0;

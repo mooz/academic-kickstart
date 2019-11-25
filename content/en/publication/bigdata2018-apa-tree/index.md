@@ -6,7 +6,7 @@ authors: ["Masafumi Oyamada"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "Big Data 2018"
+publication: "IEEE Big Data 2018"
 url_pdf: "https://doi.org/10.1109/BigData.2018.8622192"
 doi: "10.1109/BigData.2018.8622192"
 ---

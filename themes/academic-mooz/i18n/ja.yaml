@@ -43,9 +43,11 @@
 - id: interests
   translation: 興味・関心
 - id: education
-  translation: 学歴
+  translation: 経歴
 - id: honors
   translation: 受賞等
+- id: services
+  translation: 学会活動
 - id: user_profile_latest
   translation: Latest
 - id: see_certificate

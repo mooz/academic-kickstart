@@ -23,8 +23,6 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-  columns = 1
-
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
@@ -68,3 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Complete list of [publications]({{< ref "/publication/_index.md" >}}) is also available.

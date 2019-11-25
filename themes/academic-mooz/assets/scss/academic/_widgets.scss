@@ -266,8 +266,8 @@ a.hero-cta-alt:hover {
 }
 
 .portrait {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
   border-radius: 50%;
   object-fit: cover;
@@ -321,6 +321,10 @@ ul.ul-interests li {
   font-size: 0.9rem;
 }
 
+.interests {
+  font-size: 0.9rem;
+}
+
 ul.ul-edu {
   list-style: none;
 }
@@ -363,7 +367,7 @@ ul.ul-edu li .description p.institution {
 .experience .card-text,
 .experience .card-text p {
   color: #000 !important;
-  font-size: 0.75rem !important;
+  font-size: 1rem !important;
 }
 
 .dark .experience .text-muted {

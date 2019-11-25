@@ -20,12 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: A computer scientist.
 
+interests_long: My research interests are on helping data analysis using data management technologies and machine learning technologies. Especially, I am now actively working on the following topics.
+
 interests:
-- Database Systems
-- Data Management
-- Machine Learning
+- Heterogeneous Data Integration
+- Data Indexing
+- Data Profiling
+- Knowledge Acquisition
 - Information Extraction
-- Knowledge Management
+- Source Code Analysis
 
 education:
   courses:
@@ -38,22 +41,33 @@ education:
   - course: BSE in Computer Science
     institution: University of Tsukuba
     year: 2011
-    
-interests:
-- Database Systems
-- Data Management
-- Machine Learning
-- Information Extraction
-- Knowledge Management
-
+  
 honors:
-- Best paper runner up award in WebDB Forum, 2018
-- JSAI Annual Conference Award, 2016
-- Best honorable poster in DEIM, 2015
-- Best paper runner up award in APWeb, 2015
-- Honorable poster in DEIM, 2014
-- Chair of department of computer science award from University of Tsukuba, 2013
-- Honorable student talk in DEIM, 2013
+- award: Best Paper Runner-Up
+  institution: WebDB Forum
+  year: 2018
+- award: Annual Conference Award 
+  institution: JSAI
+  year: 2016
+- award: Best Honorable Poster 
+  institution: DEIM
+  year: 2015
+- award: Best Paper Runner-Up
+  institution: APWeb
+  year: 2015
+- award: Honorable Poster 
+  institution: DEIM
+  year: 2014
+- award: Dept. Chair Award
+  institution: University of Tsukuba
+  year: 2013
+- award: Honorable Student Talk 
+  institution: DEIM
+  year: 2013
+
+services:
+- Reviewer (TBA)
+- PC (TBA)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
