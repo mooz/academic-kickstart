@@ -21,39 +21,33 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- Database Systems
-- Data Management
-- Machine Learning
-- Information Extraction
-- Knowledge Management
+- データベースシステム（物理DB設計）
+- データ管理技術（索引構造, クエリ処理）
+- 機械学習技術（潜在変数モデル）
+- 情報抽出
+- 知識管理
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: University of Tsukuba
+  - course: 博士 (工学)
+    institution: 筑波大学
     year: 2018
-  - course: MEng in Computer Science
-    institution: University of Tsukuba
+  - course: 修士 (工学)
+    institution: 筑波大学
     year: 2013
-  - course: BSE in Computer Science
-    institution: University of Tsukuba
+  - course: 学士 (情報科学)
+    institution: 筑波大学
     year: 2011
-    
-interests:
-- Database Systems
-- Data Management
-- Machine Learning
-- Information Extraction
-- Knowledge Management
-
+  
 honors:
-- Best paper runner up award in WebDB Forum, 2018
-- JSAI Annual Conference Award, 2016
-- Best honorable poster in DEIM, 2015
-- Best paper runner up award in APWeb, 2015
-- Honorable poster in DEIM, 2014
-- Chair of department of computer science award from University of Tsukuba, 2013
-- Honorable student talk in DEIM, 2013
+- 情報処理学会 山下記念研究賞 (情報処理学会, 2019)
+- 優秀論文賞 (WebDB Forum, 2018)
+- 人工知能学会 全国大会優秀賞 (JSAI, 2016)
+- 最優秀インタラクティブ賞 (DEIM, 2015)
+- Best paper runner up award (APWeb, 2015)
+- 優秀インタラクティブ賞 (DEIM, 2014)
+- コンピュータサイエンス専攻長賞 (筑波大学, 2013)
+- 学生プレゼンテーション賞 (DEIM, 2013)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -83,9 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a senior researcher at [NEC Corporation](https://www.nec.com/). I am now a
-principal investigator of *knowledge-based learning team* of [Data Science
-Research Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation. I
-received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
-March 2018 under supervision of [Prof. Hiroyuki
-Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
+コンピュータサイエンス領域で研究をしています。ときどき怠惰なプログラマです。
