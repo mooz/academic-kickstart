@@ -109,7 +109,7 @@
 
       {{ with $person.honors }}
       <div class="col-md-12">
-        <h3>{{ "Honors" }}</h3>
+        <h3>{{ i18n "honors" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
