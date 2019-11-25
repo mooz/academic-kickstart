@@ -19,22 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Senior Researcher (Data Science)"
+  title = "Senior Researcher"
   company = "NEC Corporation"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2017-04-01"
   date_end = ""
   description = """
-  Principal investigator of knowledge-based learning team. Research topics include
+Principal investigator of a research team (knowledge-based learning). Research topics include
   
-  * Data Management (Data Integration, Data Indexing, ...)
-  * Human-Computer Interaction (Crowd Computing)
-  * Knowledge Extraction
-  """
+* Data Management (Data Integration, Data Indexing, ...)
+* Machine Learning (Multi-label Classification)
+* Human-Computer Interaction (Crowd Computing)
+* Information Extraction (Knowledge Extraction)
+"""
 
 [[experience]]
-  title = "Researcher (Data Science)"
+  title = "Researcher"
   company = "NEC Corporation"
   company_url = ""
   location = "Tokyo, Japan"
@@ -42,6 +43,7 @@ date_format = "Jan 2006"
   date_end = "2017-03-31"
   description = """
 Research on customer behavior data analytics. Research topics include
+
 * Bayesian Modeling of Customer Behavior
 * Context-aware Recommendation
 * Statistical Relational Learning
@@ -54,24 +56,24 @@ Research on customer behavior data analytics. Research topics include
   location = "Tokyo, Japan"
   date_start = "2011-05-01"
   date_end = "2013-03-31"
-  description = """Software development (Firefox / Thunderbird Extension etc.)."""
+  description = """Software development. Developed web browser extensions, E-mail reader extensions, and search engine backends. (JavaScript, Ruby, C++)."""
 
 [[experience]]
-  title = "Research Staff (Internship Student)"
+  title = "Research Staff (Internship)"
   company = "NTT Research Laboratories"
-  company_url = ""
-  location = "Tokyo, Japan"
-  date_start = "2012-08-01"
-  date_end = "2013-08-31"
-  description = """Research and development on data streams."""
-
-[[experience]]
-  title = "Software Engineer (Internship Student)"
-  company = "Hatena Inc."
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2011-08-01"
   date_end = "2011-08-31"
-  description = """Developed a Safari extension."""
+  description = """Research and development on a data stream processing system."""
+
+[[experience]]
+  title = "Software Engineer (Internship)"
+  company = "Hatena Inc."
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2010-08-01"
+  date_end = "2010-08-31"
+  description = """Developed a browser extension of social bookmark web service (Hatena Bookmark) for Safari."""
 
 +++
