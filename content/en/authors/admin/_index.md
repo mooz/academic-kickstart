@@ -20,8 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: A computer scientist.
 
-interests_long: My research interests are on helping data analysis using data management technologies and machine learning technologies. Especially, I am now actively working on the following topics.
-
 interests:
 - Heterogeneous Data Integration
 - Data Indexing
@@ -43,6 +41,9 @@ education:
     year: 2011
   
 honors:
+- award: IPSJ Yamashita SIG Research Award
+  institution: IPSJ
+  year: 2019
 - award: Best Paper Runner-Up
   institution: WebDB Forum
   year: 2018
@@ -103,3 +104,5 @@ Research Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation. I
 received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
 March 2018 under supervision of [Prof. Hiroyuki
 Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
+
+My research interests are on helping data analysis using <i class="fab fa-twitter"></i> data management technologies (DB) and <i class="fab fa-twitter"></i> machine learning technologies (ML).
