@@ -40,14 +40,30 @@ education:
     year: 2011
   
 honors:
-- 情報処理学会 山下記念研究賞 (情報処理学会, 2019)
-- 優秀論文賞 (WebDB Forum, 2018)
-- 人工知能学会 全国大会優秀賞 (JSAI, 2016)
-- 最優秀インタラクティブ賞 (DEIM, 2015)
-- Best paper runner up award (APWeb, 2015)
-- 優秀インタラクティブ賞 (DEIM, 2014)
-- コンピュータサイエンス専攻長賞 (筑波大学, 2013)
-- 学生プレゼンテーション賞 (DEIM, 2013)
+- award: 情報処理学会 山下記念研究賞
+  institution: 情報処理学会
+  year: 2019
+- award: 優秀論文賞
+  institution: WebDB Forum
+  year: 2018
+- award: 人工知能学会 全国大会優秀賞
+  institution: JSAI
+  year: 2016
+- award: 最優秀インタラクティブ賞
+  institution: DEIM
+  year: 2015
+- award: Best paper runner up award
+  institution: APWeb
+  year: 2015
+- award: 優秀インタラクティブ賞
+  institution: DEIM
+  year: 2014
+- award: コンピュータサイエンス専攻長賞
+  institution: 筑波大学
+  year: 2013
+- award: 学生プレゼンテーション賞
+  institution: DEIM
+  year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
