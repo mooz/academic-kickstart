@@ -68,3 +68,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+ [一覧]({{< ref "/publication/_index.md" >}})

@@ -21,12 +21,15 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- Heterogeneous Data Integration
-- Data Indexing
-- Data Profiling
-- Knowledge Acquisition
-- Information Extraction
-- Source Code Analysis
+- Heterogeneous Data Integration (TBA!)
+- Data Indexing ([AAAI 2019](/publication/aaai2019-meimei))
+- Data Profiling ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
+- Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss))
+- Information Extraction ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- (past) Statistical Relational Learning ([ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering))
+- (past) Machine Learning on Compressed Data ([JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle))
+- (past) Transactional Data Stream Processing ([ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream))
 
 education:
   courses:
@@ -105,4 +108,4 @@ received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
 March 2018 under supervision of [Prof. Hiroyuki
 Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
-My research interests are on helping data analysis using <i class="fab fa-twitter"></i> data management technologies (DB) and <i class="fab fa-twitter"></i> machine learning technologies (ML).
+My research interests are on helping data analysis using <i class="fab fa-database"></i> data management technologies (DB) and <i class="fab fa-brain"></i> machine learning technologies (ML).

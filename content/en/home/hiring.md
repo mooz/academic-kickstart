@@ -5,7 +5,7 @@ headless = true
 active = true
 weight = 40
 
-title = "We are hiring ! (Interneship / Full-time)"
+title = "We are hiring (Interneship / Full-time)"
 subtitle = ""
 
 [design]

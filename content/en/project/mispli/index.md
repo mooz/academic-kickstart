@@ -9,7 +9,7 @@ categories: [JavaScript]
 date: 2019-11-19T11:44:43Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://mooz.github.com/mispli/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

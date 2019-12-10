@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "xKeySnail"
-summary: "Yet another keyboard remapping tool for X environment"
+title: "js-doc.el"
+summary: "Add jsdoc-related functionalities for Emacs"
 authors: [Masafumi Oyamada]
-tags: [Linux,Emacs,Python]
-categories: [Linux,Emacs,Python]
-date: 2019-11-23T07:40:05Z
+tags: [Emacs]
+categories: [Emacs]
+date: 2019-11-10T10:36:26Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mooz/xkeysnail"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

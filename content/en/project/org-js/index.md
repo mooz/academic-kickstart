@@ -9,7 +9,7 @@ categories: [Emacs,JavaScript]
 date: 2019-11-18T11:58:03Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/mooz/org-js/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

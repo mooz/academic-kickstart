@@ -89,4 +89,4 @@ subtitle = ""
  css_class = ""
 +++
 
-See my [GitHub](https://github.com/mooz) for list of software I have crafted. Here are some selected staffs.
+生産性を向上させるツールを好んで作ります。[GitHub](https://github.com/mooz)に一覧があります。

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Masafumi Oyamada
+name: 小山田 昌史
 
 # Username (this should match the folder name)
 authors:
@@ -21,11 +21,15 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- データベースシステム（物理DB設計）
-- データ管理技術（索引構造, クエリ処理）
-- 機械学習技術（潜在変数モデル）
-- 情報抽出
-- 知識管理
+- データプロファイリング（[AAAI 2019](/publication/aaai2019-meimei)）
+- データ索引（[BIGDATA 2018](/publication/bigdata2018-apa-tree)）
+- 知識収集（[AAAI 2020](/publication/aaai2020-unsure-loss)）
+- 情報抽出（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
+- ソースコード解析（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
+- (昔) 関係データ学習（[ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering)）
+- (昔) 圧縮データ上の機械学習（[JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle)）
+- (昔) トランザクショナルなデータストリーム処理（[ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream)）
+
 
 education:
   courses:
@@ -87,10 +91,12 @@ social:
 email: ""
   
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#` or(/publication/ comment out if you are not using People widget.     Set this to `[]` or comment out if you are not using People widget.  )
 user_groups:
 - Researchers
 - Visitors
 ---
 
-コンピュータサイエンス領域で研究をしています。ときどき怠惰なプログラマです。
+「誰もがデータから価値を引き出せる世界」に向けて、
+<i class="fas fa-database"></i> データベース技術 (DB) と
+<i class="fas fa-brain"></i> 機械学習技術 (ML) との境目で研究に取り組んでいます。ときどき怠惰なプログラマです。
