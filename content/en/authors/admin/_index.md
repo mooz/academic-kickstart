@@ -22,8 +22,8 @@ bio: A computer scientist.
 
 interests:
 - Heterogeneous Data Integration (TBA!)
-- Data Indexing ([AAAI 2019](/publication/aaai2019-meimei))
-- Data Profiling ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
+- Data Profiling ([AAAI 2019](/publication/aaai2019-meimei))
+- Data Indexing ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
 - Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss))
 - Information Extraction ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
 - Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
@@ -108,4 +108,4 @@ received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
 March 2018 under supervision of [Prof. Hiroyuki
 Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
-My research interests are on helping data analysis using <i class="fab fa-database"></i> data management technologies (DB) and <i class="fab fa-brain"></i> machine learning technologies (ML).
+My research interests are on helping data analysis using <i class="fas fa-database"></i> data management technologies (DB) and <i class="fas fa-brain"></i> machine learning technologies (ML).
