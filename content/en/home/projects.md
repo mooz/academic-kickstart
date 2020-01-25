@@ -89,4 +89,4 @@ subtitle = ""
  css_class = ""
 +++
 
-See my [GitHub](https://github.com/mooz) for list of software I have crafted. Here are some selected staffs.
+See my [GitHub](https://github.com/mooz) for list of software I have crafted. Here are some selected stuffs.
