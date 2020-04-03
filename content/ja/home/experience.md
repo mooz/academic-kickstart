@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Principal Researcher"
+  company = "NEC Corporation"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """
+Principal investigator of a research team (knowledge-based learning) and product manager of a ML-based data management software.
+"""
+
+[[experience]]
   title = "Senior Researcher"
   company = "NEC Corporation"
   company_url = ""

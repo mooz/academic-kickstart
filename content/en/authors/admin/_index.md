@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Principal Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -101,11 +101,11 @@ user_groups:
 - Visitors
 ---
 
-I am a senior researcher at [NEC Corporation](https://www.nec.com/). I am now a
-principal investigator of *knowledge-based learning team* of [Data Science
-Research Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation. I
-received my Ph.D. at [University of Tsukuba](https://www.tsukuba.ac.jp/en/) in
-March 2018 under supervision of [Prof. Hiroyuki
-Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
+I am a principal researcher at [NEC Corporation](https://www.nec.com/). I am now
+leading a research team (*Knowledge-Based Learning*) of [Data Science Research
+Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation as the
+principal investigator. I received my Ph.D. at [University of
+Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
+[Prof. Hiroyuki Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
 My research interests are on helping data analysis using <i class="fas fa-database"></i> data management technologies (DB) and <i class="fas fa-brain"></i> machine learning technologies (ML).
