@@ -1,0 +1,22 @@
+.pub-publication {
+  font-weight: bold;
+  color: $sta-primary;
+}
+
+span[data-author='Masafumi Oyamada'] {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.article-metadata {
+  margin-bottom: 5px;
+  overflow: hidden;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  color: rgba(0,0,0,0.9);
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+}
