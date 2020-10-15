@@ -101,4 +101,4 @@ user_groups:
 <i class="fas fa-database"></i> データベース技術 (DB) と
 <i class="fas fa-brain"></i> 機械学習技術 (ML) との境目で研究に取り組んでいます。ときどき怠惰なプログラマです。
 
-機械学習の力でデータの「めんどくさい」をなくす [データ意味理解技術](https://dbmeister.net) の研究開発に取り組んでいます。
+データの価値を最大化するサービス [NEC Data Enrichment](https://jpn.nec.com/solution/dataenrichment/) の研究開発に取り組んでいます。
