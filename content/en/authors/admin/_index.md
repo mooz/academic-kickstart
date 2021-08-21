@@ -21,12 +21,12 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- Heterogeneous Data Integration (TBA!)
-- Data Profiling ([AAAI 2019](/publication/aaai2019-meimei))
-- Data Indexing ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
-- Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss))
-- Information Extraction ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
-- Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil))
+- Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso))
+- Light-weight Materialization of Queries ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
+- Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype))
+- Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- (past) Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
 - (past) Statistical Relational Learning ([ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering))
 - (past) Machine Learning on Compressed Data ([JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle))
 - (past) Transactional Data Stream Processing ([ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream))
@@ -44,6 +44,9 @@ education:
     year: 2011
   
 honors:
+- award: Journal of Information Processing Outstanding Paper Award
+  institution: IPSJ
+  year: 2021
 - award: IPSJ Yamashita SIG Research Award
   institution: IPSJ
   year: 2019
@@ -102,10 +105,12 @@ user_groups:
 ---
 
 I am a principal researcher at [NEC Corporation](https://www.nec.com/). I am now
-leading a research team (*Knowledge-Based Learning*) of [Data Science Research
-Laboratories](https://www.nec.com/en/global/rd/) at NEC Corporation as the
-principal investigator. I received my Ph.D. at [University of
+the principal investigator of *Knowledge-Based Learning* research team of [Data
+Science Research Laboratories](https://www.nec.com/en/global/rd/) at NEC
+Corporation. I received my Ph.D. at [University of
 Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
 [Prof. Hiroyuki Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
-My research interests are on helping data analysis using <i class="fas fa-database"></i> data management technologies (DB) and <i class="fas fa-brain"></i> machine learning technologies (ML).
+My research interests are on helping data analysis using <i class="fas
+fa-database"></i> data management technologies (DB) and <i class="fas
+fa-brain"></i> machine learning technologies (ML).
