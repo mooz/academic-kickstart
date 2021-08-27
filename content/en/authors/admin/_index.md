@@ -21,7 +21,7 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil))
+- Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation))
 - Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso))
 - Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
 - Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype))
