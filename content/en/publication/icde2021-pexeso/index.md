@@ -12,7 +12,7 @@ authors:
 - Masafumi Oyamada
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-01-02'
 lastmod: 2021-02-24T07:25:49Z
 featured: false
 draft: false
