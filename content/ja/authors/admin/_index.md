@@ -23,11 +23,11 @@ bio: A computer scientist.
 interests:
 - 異種データ統合 ([ICWSM 2021](/publication/icwsm2021-uil))
 - データプロファイリング / データの検索 （[AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso)）
-- 軽量な実体化ビュー（[BIGDATA 2018](/publication/bigdata2018-apa-tree)）
+- 非構造 / 半構造データからの情報抽出（[BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
 - 人間からの効果的 / 効率的な知識収集（[AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype)）
-- 非構造 / 半構造データからの情報抽出（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
-- (昔) ソースコード解析（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
 - (昔) 関係データ学習（[ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering)）
+- (昔) 軽量な実体化ビュー（[BIGDATA 2018](/publication/bigdata2018-apa-tree)）
+- (昔) ソースコード解析（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
 - (昔) 圧縮データ上の機械学習（[JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle)）
 - (昔) トランザクショナルなデータストリーム処理（[ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream)）
 
