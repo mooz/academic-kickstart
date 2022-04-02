@@ -21,6 +21,17 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Principal Researcher"
   company = "NEC Corporation"
+  title = "Senior Principal Researcher"
+  company = "NEC"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2022-04-01"
+  date_end = ""
+  description = """
+Senior Principal Researcher and the Director of a research group that focus on data management, natural language processing, and data mining issues. Also the product manager of NEC Data Enrichment service, an ML-based data preparation platform.
+"""
+
+
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2020-04-01"

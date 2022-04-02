@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Principal Researcher / Director"
+  company = "NEC Corporation"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2022-04-01"
+  date_end = ""
+  description = """
+Senior Principal Researcher and the Director of a research group that focus on data management, natural language processing, and data mining issues. Also the product manager of NEC Data Enrichment service, an ML-based data preparation platform.
+"""
+
+[[experience]]
   title = "Principal Researcher"
   company = "NEC Corporation"
   company_url = ""
@@ -26,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = """
-Principal investigator of a research team (knowledge-based learning) and product manager of a ML-based data management software.
+Principal investigator of a research team (knowledge-based learning) and product manager of an ML-based data management software.
 """
 
 [[experience]]
