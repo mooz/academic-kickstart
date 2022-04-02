@@ -35,7 +35,7 @@ Senior Principal Researcher and the Director of a research group that focus on d
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2020-04-01"
-  date_end = ""
+  date_end = "2022-03-31"
   description = """
 Principal investigator of a research team (knowledge-based learning) and product manager of a ML-based data management software.
 """
@@ -46,7 +46,7 @@ Principal investigator of a research team (knowledge-based learning) and product
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2017-04-01"
-  date_end = ""
+  date_end = "2020-03-31"
   description = """
 Principal investigator of a research team (knowledge-based learning). Research topics include
   
