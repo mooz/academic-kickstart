@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Principal Researcher / Director
+role: Director / Senior Principal Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -104,13 +104,16 @@ user_groups:
 - Visitors
 ---
 
-I am a senior principal researcher at [NEC Corporation](https://www.nec.com/). I am now
-the director of *Knowledge-Based Learning* Research Group of [Data
-Science Research Laboratories](https://www.nec.com/en/global/rd/) at NEC
-Corporation. I received my Ph.D. at [University of
-Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
+I am a computer scientist armed by a split keyboard and the Emacs editor.
+Currently, I am managing a research group on natural language processing, data
+engineering, and acoustics research field at NEC Corporation, Japan as the Group
+Director and a Senior Principal Researcher. I received my Ph.D. at [University
+of Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
 [Prof. Hiroyuki Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
-My research interests are on helping data analysis using <i class="fas
-fa-database"></i> data management technologies (DB) and <i class="fas
-fa-brain"></i> machine learning technologies (ML).
+My research interests are on how people can unleash their full potential using
+the power of <i class="fas fa-robot"></i> machines and <i class="fas
+fa-book"></i> knowledges. Specifically, my current research interests are on
+understanding the behavior of large language models (LLMs), semi-parametric
+natural language methods based on external corpora retrievers, autonomous
+knowledge management using LLMs, and language model cascades.
