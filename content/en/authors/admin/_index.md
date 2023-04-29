@@ -104,16 +104,16 @@ user_groups:
 - Visitors
 ---
 
-I am a computer scientist armed by a split keyboard and the Emacs editor.
-Currently, I am managing a research group on natural language processing, data
-engineering, and acoustics research field at NEC Corporation, Japan as the Group
-Director and a Senior Principal Researcher. I received my Ph.D. at [University
-of Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
+I am a computer scientist based in Tokyo, Japan. Currently, I am managing a
+research group on **natural language processing** 📚, **data engineering** 🗄️,
+and **acoustics** 🗣️ research field at NEC Corporation as the Group Director 🧑‍💼
+and a Senior Principal Researcher 🧑‍🔬. I received my Ph.D. at [University of
+Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
 [Prof. Hiroyuki Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 
-My research interests are on how people can unleash their full potential using
-the power of <i class="fas fa-robot"></i> machines and <i class="fas
-fa-book"></i> knowledges. Specifically, my current research interests are on
-understanding the behavior of large language models (LLMs), semi-parametric
-natural language methods based on external corpora retrievers, autonomous
-knowledge management using LLMs, and language model cascades.
+My research interests are on **how people can unleash their full potential**
+using the power of **machines** 🤖 and **knowledges** 📚. Specifically, my
+current research interests are on understanding the behavior of large language
+models (LLMs), semi-parametric natural language methods based on external
+corpora retrievers (such as augmented language models), autonomous knowledge
+management using LLMs, and language model cascades (agent LLMs).
