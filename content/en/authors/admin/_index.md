@@ -21,15 +21,15 @@ organizations:
 bio: A computer scientist.
 
 interests:
-- Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation), [SIGIR 2022](/publication/dblp-conferencessigirym-22))
-- Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso))
-- Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
-- Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype))
-- (past) Statistical Relational Learning ([ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering))
-- (past) Light-weight Materialization of Queries ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
-- (past) Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
-- (past) Machine Learning on Compressed Data ([JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle))
-- (past) Transactional Data Stream Processing ([ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream))
+- 🔍 Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso), [SIGIR 2022](/publication/dblp-conferencessigirym-22), [VLDB 2023](/publication/vldb23-deepjoin))
+- 💽 Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation), [PAKDD 2023](/publication/pakdd2023-qamatcher/), [eCom 2023](/publication/ecom2023-atp/))
+- 📰 Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
+- 🧠 Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype))
+- (past) 🕸 Statistical Relational Learning ([ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering))
+- (past) 💽 Light-weight Materialization of Queries ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
+- (past) ⌨ Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- (past) 🤖 Machine Learning on Compressed Data ([JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle))
+- (past) ⚡ Transactional Data Stream Processing ([ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream))
 
 education:
   courses:
