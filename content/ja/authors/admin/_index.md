@@ -10,27 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Principal Researcher / Director
+role: 主席研究員
 
 # Organizations/Affiliations
 organizations:
-- name: NEC Corporation
+- name: NEC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: A computer scientist.
 
 interests:
-- 異種データ統合 ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation), [SIGIR 2022](/publication/dblp-conferencessigirym-22))
-- データプロファイリング / データの検索 （[AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso)）
-- 非構造 / 半構造データからの情報抽出（[BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
-- 人間からの効果的 / 効率的な知識収集（[AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype)）
-- (昔) 関係データ学習（[ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering)）
-- (昔) 軽量な実体化ビュー（[BIGDATA 2018](/publication/bigdata2018-apa-tree)）
-- (昔) ソースコード解析（[BIGDATA 2019](/publication/bigdata2019-script-analysis)）
-- (昔) 圧縮データ上の機械学習（[JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle)）
-- (昔) トランザクショナルなデータストリーム処理（[ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream)）
-
+- 🤖🏢  LLM Organization & AI Agents ([BigData 2023](/publication/bigdata2023-llm-organization))
+- 🔍🤖  Retrieval-Augmented Language Models ([EMNLP Findings 2023](/publication/emnlpf2023-context-quality-fid))
+- 🔍 Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso), [SIGIR 2022](/publication/dblp-conferencessigirym-22), [VLDB 2023](/publication/vldb23-deepjoin))
+- 💽 Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation), [PAKDD 2023](/publication/pakdd2023-qamatcher/), [eCom 2023](/publication/ecom2023-atp/))
+- 📰 Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
+- 🧠 Knowledge Acquisition ([AAAI 2020](/publication/aaai2020-unsure-loss), [PAKDD 2021](/publication/pakdd2021-prototype))
+- (past) 🕸 Statistical Relational Learning ([ICDM 2017](/publication/icdm2017-relational-mixture-of-experts), [PAKDD 2017](/publication/pakdd2017-topic-bi-clustering))
+- (past) 💽 Light-weight Materialization of Queries ([BIGDATA 2018](/publication/bigdata2018-apa-tree))
+- (past) ⌨ Source Code Analysis ([BIGDATA 2019](/publication/bigdata2019-script-analysis))
+- (past) 🤖 Machine Learning on Compressed Data ([JIP 2018](/publication/jip2018-compressed-machine-learning), [APWEB 2014](/publication/apweb2014-moarle))
+- (past) ⚡ Transactional Data Stream Processing ([ACR 2013](/publication/acr2013-transactional-stream), [SAC 2013](/publication/sac2013-transactional-stream))
 
 education:
   courses:
@@ -101,8 +102,6 @@ user_groups:
 - Visitors
 ---
 
-「誰もがデータから価値を引き出せる世界」に向けて、
-<i class="fas fa-database"></i> データベース技術 (DB) と
-<i class="fas fa-brain"></i> 機械学習技術 (ML) との境目で研究に取り組んでいます。ときどき怠惰なプログラマです。
+「誰もが自らの能力を最大限に発揮できる世界」に向けて、知識・言語の領域で研究開発に取り組んでいます。ときどき怠惰なプログラマです。
 
-データの価値を最大化するサービス [NEC Data Enrichment](https://jpn.nec.com/solution/dataenrichment/) の研究開発に取り組んでいます。
+現在は NEC において大規模言語モデル (LLM) を中心とした AI の研究開発グループを主宰しています。LLM を作り、理解し、世に役立てる活動にご興味のある方はぜひご連絡ください。

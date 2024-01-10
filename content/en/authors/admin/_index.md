@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Director / Senior Principal Researcher
+role: Research Fellow & Director
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,8 @@ organizations:
 bio: A computer scientist.
 
 interests:
+- 🏢 LLM Organization & 🤖 AI Agents ([BigData 2023](/publication/bigdata2023-llm-organization))
+- 🔍  Retrieval-Augmented Language Models ([EMNLP Findings 2023](/publication/emnlpf2023-context-quality-fid))
 - 🔍 Data Profiling and Data Discovery ([AAAI 2019](/publication/aaai2019-meimei), [ICDE 2021](/publication/icde2021-pexeso), [SIGIR 2022](/publication/dblp-conferencessigirym-22), [VLDB 2023](/publication/vldb23-deepjoin))
 - 💽 Heterogeneous Data Integration ([ICWSM 2021](/publication/icwsm2021-uil), [SFDI 2021](/publication/sfdi2021-entity-matching-string-transformation), [PAKDD 2023](/publication/pakdd2023-qamatcher/), [eCom 2023](/publication/ecom2023-atp/))
 - 📰 Information Extraction from Unstructured / Semi-structured Data ([BIGDATA 2019](/publication/bigdata2019-script-analysis), [EMNLP 2021](/publication/emnlp2021-taxonomy-enrichment))
@@ -106,8 +108,8 @@ user_groups:
 
 I am a computer scientist based in Tokyo, Japan. Currently, I am managing a
 research group on **natural language processing** 📚, **data engineering** 🗄️,
-and **acoustics** 🗣️ research field at NEC Corporation as the Group Director 🧑‍💼
-and a Senior Principal Researcher 🧑‍🔬. I received my Ph.D. at [University of
+and **acoustics** 🗣️ research field at NEC Corporation as the 🧑‍💼 Head of Group 
+and a 🧑‍🔬 Research Fellow . I received my Ph.D. at [University of
 Tsukuba](https://www.tsukuba.ac.jp/en/) in March 2018 under supervision of
 [Prof. Hiroyuki Kitagawa](http://www.kde.cs.tsukuba.ac.jp/~kitagawa/index.html).
 

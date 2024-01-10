@@ -19,12 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Senior Principal Researcher"
-  company = "NEC"
+  title = "Research Fellow (Executive Professional)"
+  company = "NEC Corporation"
+  company_url = ""
+  location = "Tokyo, Japan"
+  date_start = "2024-01-01"
+  date_end = ""
+  description = """Research Fellow and the Head of a Generative AI Research Group."""
+
+[[experience]]
+  title = "Senior Principal Researcher / Director"
+  company = "NEC Corporation"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2022-04-01"
-  date_end = ""
+  date_end = "2023-12-30"
   description = """
 Senior Principal Researcher and the Director of a research group that focus on data management, natural language processing, and data mining issues. Also the product manager of NEC Data Enrichment service, an ML-based data preparation platform.
 """
